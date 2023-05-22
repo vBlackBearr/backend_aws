@@ -35,3 +35,10 @@ Content-Type: application/json
 "title": "Task updated",
 "description": "some description task updated"
 }
+
+
+
+
+###
+
+GET http://localhost:3000/residentes
